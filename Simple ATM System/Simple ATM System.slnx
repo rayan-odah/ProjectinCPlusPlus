@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Simple ATM System/Simple ATM System.vcxproj" Id="e0a48afc-b664-4e2a-b096-7ca11f503e2e" />
+</Solution>
