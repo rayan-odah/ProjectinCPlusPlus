@@ -1,3 +1,6 @@
 /.vs
 Debug
 *.vcxproj.user
+Release/
+x64/
+x86/
